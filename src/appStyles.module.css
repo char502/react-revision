@@ -1,0 +1,6 @@
+.success {
+  text-align: center;
+  color: green;
+}
+
+/* Benefit of modules, classes are locally scoped by default */
